@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Boolean</string>
+    <string name="calculate">Сalculate</string>
+    <string name="Enter">Enter the expression</string>
+    <string name="textTab">Truth Table</string>
+    <string name="Incorrect">Incorrect expression</string>
+    <string name="IncorrectInput">Incorrect input</string>
+    <string name="noExpression">Enter the expression</string>
+</resources>

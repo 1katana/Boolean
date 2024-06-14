@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boolean</string>
+    <string name="calculate">Посчитать</string>
+    <string name="Enter">Введите выражение</string>
+    <string name="textTab">Таблица истинности</string>
+    <string name="Incorrect">Неправильное выражение</string>
+    <string name="IncorrectInput">Неправильный ввод</string>
+    <string name="noExpression">Введите выражение</string>
+</resources>
